@@ -1,6 +1,6 @@
 ## Setup
 
-1. Install Node.js and Node Package Manager
+1. Install Node.js and Node Package Manager.
 2. Run `npm ci` to install dependencies.
 3. Copy `example.env` to `.env` and enter the URL for your MySQL database.
 4. Run `npm db` to build the database schema.
